@@ -1,0 +1,12 @@
+#heading{
+    padding: 10px;
+    text-align: center;
+   
+}
+#heading .head{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: darkcyan;
+    
+    
+}
